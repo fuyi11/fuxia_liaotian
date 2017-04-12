@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">家聊</string>
+    <string name="app_name">伏峡聊天</string>
     <string name="AuthorDesc">Produced by WK.Luo</string>
     <string name="app_fileprovider_authorities">com.lwk.familycontact.fileprovider</string>
 

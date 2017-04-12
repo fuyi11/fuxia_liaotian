@@ -37,8 +37,7 @@ public class LoginActivity extends FCBaseActivity implements LoginView
     }
 
     @Override
-    protected void initUI()
-    {
+    protected void initUI() {
         CommonActionBar actionBar = findView(R.id.cab_login);
         actionBar.setLeftLayoutAsBackWithoutText(this);
         actionBar.setTitleText(R.string.tv_login_title);
